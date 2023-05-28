@@ -1,38 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# RenderPress
+
+RenderPress is a customizable blog template designed specifically for graphics programmers. It provides an easy-to-use platform for creating and editing blog posts, showcasing graphics-related work, and sharing insights within the graphics programming community.
+
+## Features
+(Note, this project is WIP. These are the goals for 1.0.0 release)
+- [❌] Search 
+- [❌] Automatically updating tags
+- [❌] Nice previews for posts
+- [❌] Themes
 
 ## Getting Started
 
-First, run the development server:
+// Todo
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Contributing
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Contributions are welcome! If you encounter any issues, have suggestions for improvements, or would like to contribute new features, please open an issue or submit a pull request in this repository.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+Please review our [Contribution Guidelines](// To do) before making any contributions.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## License
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+RenderPress is released under the [MIT License](LICENSE.md). You are free to use, modify, and distribute this template for personal or commercial purposes.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Contact
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Don't (I'm joking, you can find me in [the graphics programming discord server]( https://discord.gg/6mgNGk7))
