@@ -1,3 +1,13 @@
 [
-
+  {
+    "short_name": "real time vulkan ray tracing",
+    "name": "Exploring Real-Time Ray Tracing in Vulkan",
+    "description": "Learn about the power of real-time ray tracing in Vulkan and its applications in game development.",
+    "tags": [
+      "Vulkan",
+      "Ray Tracing",
+      "Game Development",
+      "Graphics Programming"
+    ]
+  }
 ]
