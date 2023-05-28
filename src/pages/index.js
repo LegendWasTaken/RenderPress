@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import About from "@/components/about";
+import BlogList from "@/components/bloglist";
 
 export default function Home() {
   return (
@@ -10,8 +11,12 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <main>
-          <div>
+          <div className={"flex gap-x-24 px-24 pt-24 h-screen"}>
               <About/>
+              <div className={"flex-grow"}/>
+              <div className={"overflow-y-scroll pb-4"}>
+                  <BlogList/>
+              </div>
           </div>
       </main>
     </>
